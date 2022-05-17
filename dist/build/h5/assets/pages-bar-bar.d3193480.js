@@ -1,0 +1,1 @@
+import{o,f as s,g as a}from"./index.b4d126cd.js";import{o as e}from"./uni-app.es.3bbd9e20.js";const l={setup:l=>(e((o=>{console.log("选项",o)})),(e,l)=>(o(),s("div",null,[a("h1",null,"bar页面")])))};export{l as default};
